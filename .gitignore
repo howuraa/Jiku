@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+out/
+release/
+sapr-preprocessor-*/
+*-darwin-*
+*-win32-*
+*-linux-*
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
